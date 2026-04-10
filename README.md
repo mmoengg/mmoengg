@@ -10,8 +10,8 @@
 
 <div align=center>
   
-### ¸.•´*✿¨*• 🥰 minjeong's github 🥰 •*¨✿*`•.¸
-`함께 일하고 싶은 개발자를 꿈꾸는 🐣입니다 :D`
+### ¸.•´*✿¨*• 🥰 minjeong's github 🥰 •*¨✿*`•.¸ 
+   `함께 일하고 싶은 개발자를 꿈꿉니다 :D`
 
 
 <br><br>  
